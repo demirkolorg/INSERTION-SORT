@@ -12,7 +12,7 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
 
 ### A - Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-0 - [22,27,16,2,18,6]
+0 - [22,27,16,2,18,6] -> Orjinal hali, henüz işlem yapılmadı
 
 1 - [2,27,16,22,18,6] -> 2 ile 22 sayısı yer değiştirdi
 
