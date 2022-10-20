@@ -24,7 +24,9 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
 
 5 - [2,6,16,18,22,27]-> siradaki sayı 22 yer değiştirme yapılmadı
 
-6 - [2,6,16,18,22,27]-> siradaki sayı 27 yer değiştirme yapılmadı #Toplam islem sayısı 6#
+6 - [2,6,16,18,22,27]-> siradaki sayı 27 yer değiştirme yapılmadı 
+
+**Toplam islem sayısı 6**
 
 ### B - Big-O gösterimini yazınız.
 
@@ -33,8 +35,11 @@ O(n^2
 ### C - Time Complexity:
 
 **Average case:** Aradığımız sayının ortada olması.
+
 **Worst case:** Aradığımız sayının sonda olması.
+
 **Best case:** Aradığımız sayının dizinin en başında olması.
+
 
 ### D - Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 
